@@ -1,5 +1,5 @@
 export default {
-  title: "DASMAC Stablecoin Registry",
+  title: "Solana Stablecoin Registry",
   srcDir: "src",
   markdown: {
     lineNumbers: true,

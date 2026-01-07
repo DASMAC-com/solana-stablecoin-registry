@@ -4,7 +4,7 @@
     "prettier": "^3.7.4",
     "vitepress": "^1.6.4"
   },
-  "name": "dasmac-stablecoin-registry",
+  "name": "solana-stablecoin-registry",
   "scripts": {
     "build": "vitepress build",
     "dev": "vitepress dev",

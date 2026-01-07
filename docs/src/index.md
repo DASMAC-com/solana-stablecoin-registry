@@ -1,4 +1,4 @@
-# DASMAC Stablecoin Registry
+# Solana Stablecoin Registry
 
 <!-- markdownlint-disable MD013 -->
 
