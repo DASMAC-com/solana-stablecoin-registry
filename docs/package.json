@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4",
+    "prettier": "^3.7.4",
+    "vitepress": "^1.6.4"
+  },
+  "name": "dasmac-stablecoin-registry",
+  "scripts": {
+    "build": "vitepress build",
+    "dev": "vitepress dev",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  }
+}
