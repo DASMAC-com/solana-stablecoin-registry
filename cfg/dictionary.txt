@@ -1,3 +1,4 @@
 dasmac
+mathjax
 solana
 vitepress
