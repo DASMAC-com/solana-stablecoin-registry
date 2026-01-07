@@ -5,9 +5,5 @@ export default {
     lineNumbers: true,
     math: true,
   },
-  themeConfig: {
-    sidebar: [
-      { text: "Index", link: "/" },
-    ],
-  },
+  themeConfig: {},
 };
