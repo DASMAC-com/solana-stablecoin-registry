@@ -1,4 +1,4 @@
-# DASMAC Stablecoin Registry
+# Solana Stablecoin Registry
 
 <!-- markdownlint-disable MD036 -->
 
@@ -6,7 +6,7 @@
 
 <!-- markdownlint-enable MD036 -->
 
-The DASMAC Stablecoin Registry is built with [VitePress] and can be viewed at
+The Solana Stablecoin Registry is built with [VitePress] and can be viewed at
 [stables.dasmac.com].
 
 ## Local Deployment
