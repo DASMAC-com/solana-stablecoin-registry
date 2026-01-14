@@ -1,4 +1,5 @@
 dasmac
 mathjax
 solana
+stablecoins
 vitepress
