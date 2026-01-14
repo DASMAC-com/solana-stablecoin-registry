@@ -21,5 +21,11 @@ export default {
     lineNumbers: true,
     math: true,
   },
-  themeConfig: {},
+  themeConfig: {
+    editLink: {
+      pattern:
+        "https://github.com/DASMAC-com/solana-stablecoin-registry/edit/main/docs/src/:path",
+      text: "Contribute to this page",
+    },
+  },
 };
