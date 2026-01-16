@@ -24,7 +24,7 @@ export default {
   themeConfig: {
     editLink: {
       pattern:
-        "https://github.com/DASMAC-com/solana-stablecoin-registry/edit/main/docs/src/:path",
+        "https://github.com/DASMAC-com/solana-stablecoin-registry/blob/main/docs/src/:path",
       text: "Contribute to this page",
     },
   },
