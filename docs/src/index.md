@@ -54,8 +54,9 @@
 
 <!-- markdownlint-enable MD013 -->
 
-- \* synthetic dollar
-- \*\* synthetic stablecoin
+\* synthetic dollar
+
+\*\* synthetic stablecoin
 
 <!-- Link references -->
 
