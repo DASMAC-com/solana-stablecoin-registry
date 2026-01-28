@@ -40,17 +40,17 @@
 
 <!-- markdownlint-disable MD013 -->
 
-| Stablecoin        | Ticker | Issuer             | Currency Peg (Country) | Launch Status | Website                | Mint Address                                   |
-| ----------------- | ------ | ------------------ | ---------------------- | ------------- | ---------------------- | ---------------------------------------------- |
-| USD Coin          | USDC   | Circle             | USD (USA)              | Launched      | [circle.com]           | [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v] |
-| EURC              | EURC   | Circle             | EUR (Europe)           | Launched      | [circle.com (EU)]      | [HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr] |
-| Ethena USDe\*     | USDe   | Ethena             | USD (USA)              | Launched      | [ethena.fi]            | [DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT] |
-| Tether            | USDT   | Tether             | USD (USA)              | Launched      | [tether.to]            | [Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB] |
-| PayPal USD        | PYUSD  | PayPal             | USD (USA)              | Launched      | [paypal.com]           | [2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo] |
-| USX\*\*           | USX    | Solstice           | USD (USA)              | Launched      | [solstice.finance]     | [6FrrzDk5mQARGc1TDYoyVnSyRdds1t4PbtohCD6p3tgG] |
-| USDS              | USDS   | Sky                | USD (USA)              | Launched      | [sky.money]            | [USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA]  |
-| First Digital USD | FDUSD  | First Digital Labs | USD (USA)              | Launched      | [firstdigitallabs.com] | [9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u] |
-| Pax Dollar        | USDP   | Paxos              | USD (USA)              | Launched      | [paxos.com]            | [HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM] |
+| Stablecoin        | Ticker | Issuer             | Currency Peg (Country) | Launch Status | Website                       | Mint Address                                   |
+| ----------------- | ------ | ------------------ | ---------------------- | ------------- | ----------------------------- | ---------------------------------------------- |
+| USD Coin          | USDC   | Circle             | USD (USA)              | Launched      | [circle.com]                  | [EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v] |
+| EURC              | EURC   | Circle             | EUR (Europe)           | Launched      | [circle.com][circle.com (eu)] | [HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr] |
+| Ethena USDe\*     | USDe   | Ethena             | USD (USA)              | Launched      | [ethena.fi]                   | [DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT] |
+| Tether            | USDT   | Tether             | USD (USA)              | Launched      | [tether.to]                   | [Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB] |
+| PayPal USD        | PYUSD  | PayPal             | USD (USA)              | Launched      | [paypal.com]                  | [2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo] |
+| USX\*\*           | USX    | Solstice           | USD (USA)              | Launched      | [solstice.finance]            | [6FrrzDk5mQARGc1TDYoyVnSyRdds1t4PbtohCD6p3tgG] |
+| USDS              | USDS   | Sky                | USD (USA)              | Launched      | [sky.money]                   | [USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA]  |
+| First Digital USD | FDUSD  | First Digital Labs | USD (USA)              | Launched      | [firstdigitallabs.com]        | [9zNQRsGLjNKwCUU5Gq5LR8beUCPzQMVMqKAi3SSZh54u] |
+| Pax Dollar        | USDP   | Paxos              | USD (USA)              | Launched      | [paxos.com]                   | [HVbpJAQGNpkgBaYBZQBR1t7yFdvaYVp2vCQQfKKEN4tM] |
 
 <!-- markdownlint-enable MD013 -->
 
