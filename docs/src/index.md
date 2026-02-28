@@ -86,7 +86,7 @@
 | Agora USD         | AUSD   | Agora Finance           | USD (USA)              | Launched      | [agora.finance]               | [AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9] |
 | Cash              | CASH   | Cash                    | USD (USA)              | Launched      | [cashstable.com]              | [CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH] |
 | EUR CoinVertible  | EURCV  | Societe Generale Group  | EUR (Europe)           | Launched      | [sgforge.com]                 | [DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52] |
-| StandX DUSD       | DUSD   | StandX                  | USD (USA)              | Launched      | [standx.com]                  | [DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM] |
+| StandX DUSD\*     | DUSD   | StandX                  | USD (USA)              | Launched      | [standx.com]                  | [DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM] |
 
 <!-- markdownlint-enable MD013 -->
 
