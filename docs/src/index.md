@@ -89,6 +89,10 @@
 | Cash              | CASH   | Cash                    | USD (USA)              | Launched      | [cashstable.com]              | [CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH] |
 | EUR CoinVertible  | EURCV  | Societe Generale Group  | EUR (Europe)           | Launched      | [sgforge.com]                 | [DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52] |
 | StandX DUSD\*     | DUSD   | StandX                  | USD (USA)              | Launched      | [standx.com]                  | [DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM] |
+| Blackrock USD Institutional Digital Liquidity Fund\*\*\* | BUIDL | Blackrock | USD (USA) | Launched | [securitize.io] | [GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr] |
+| USDGO | USDGO | OSL Group | USD (USA) | Launched | [usdgo.com] | [72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu] |
+| USDu\* | USDu | Unitas | USD (USA) | Launched | [unitas.so] | [9ckR7pPPvyPadACDTzLwK2ZAEeUJ3qGSnzPs8bVaHrSy] |
+| USD CoinVertible | USDCV | Societe Generale Group | USD (USA) | Launched | [sgforge.com] | [8smindLdDuySY6i2bStQX9o8DVhALCXCMbNxD98unx35] |
 
 <!-- markdownlint-enable MD013 -->
 
@@ -96,8 +100,16 @@
 
 \*\* synthetic stablecoin
 
-<!-- Link references -->
+\*\*\* tokenized money market fund
 
+<!-- Link references -->
+[8smindLdDuySY6i2bStQX9o8DVhALCXCMbNxD98unx35]: https://explorer.solana.com/address/8smindLdDuySY6i2bStQX9o8DVhALCXCMbNxD98unx35
+[unitas.so]: https://unitas.so/
+[9ckR7pPPvyPadACDTzLwK2ZAEeUJ3qGSnzPs8bVaHrSy]: https://explorer.solana.com/address/9ckR7pPPvyPadACDTzLwK2ZAEeUJ3qGSnzPs8bVaHrSy
+[72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu]: https://explorer.solana.com/address/72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu
+[usdgo.com]: https://www.usdgo.com/
+[GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr]: https://explorer.solana.com/address/GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr
+[securitize.io]: https://securitize.io/blackrock/buidl
 [2b1kv6dkpanxd5ixfnxcpjxmkwqjjaymczfhsfu24gxo]: https://explorer.solana.com/address/2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo
 [2u1tszseqz3qbwf3ungpfc8tzmk2tdiwknnrmwgwjgwh]: https://explorer.solana.com/address/2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH
 [6frrzdk5mqargc1tdyoyvnsyrdds1t4pbtohcd6p3tgg]: https://explorer.solana.com/address/6FrrzDk5mQARGc1TDYoyVnSyRdds1t4PbtohCD6p3tgG
