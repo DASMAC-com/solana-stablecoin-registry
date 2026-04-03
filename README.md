@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD036 -->
 
-*Courtesy of Distributed Atomic State Machine Algorithms Corporation (DASMAC)*
+*Courtesy of Distributed Atomic State Machine Algorithms Corporation ([DASMAC])*
 
 <!-- markdownlint-enable MD036 -->
 
@@ -39,6 +39,7 @@ The Solana Stablecoin Registry is built with [VitePress] and can be viewed at
    ```
 
 [localhost:5173]: http://localhost:5173
+[dasmac]: https://dasmac.com
 [stables.dasmac.com]: https://stables.dasmac.com
 [vitepress]: https://vitepress.dev/
 [`npm`]: https://nodejs.org/en/download
