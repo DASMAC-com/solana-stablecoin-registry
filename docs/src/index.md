@@ -91,6 +91,7 @@
 <!-- markdownlint-disable MD013 -->
 
 > [!important] Courtesy of Distributed Atomic State Machine Algorithms Corporation (DASMAC)
+> [DASMAC.com]
 
 <!-- markdownlint-enable MD013 -->
 
@@ -149,6 +150,7 @@
 [cashx9kjustyftlfwgvevf59sgeg9sh5ffcnzmvpcash]: https://explorer.solana.com/address/CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH
 [circle.com]: https://www.circle.com/en/usdc
 [circle.com (eu)]: https://www.circle.com/eurc
+[dasmac.com]: https://dasmac.com
 [dekqhypn7gmrj5cartqfawefqbzb33hyf6s5icwjeont]: https://explorer.solana.com/address/DEkqHyPN7GMRJ5cArtQFAWefqbZb33Hyf6s5iCwjEonT
 [dghpmkatciusofbtmid3m3kabdtpqdwkiyhnudxegg52]: https://explorer.solana.com/address/DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52
 [dusdt4aelzhwymcxnvgydgazjtzu5mxuvntmdnszattm]: https://explorer.solana.com/address/DUSDt4AeLZHWYmcXnVGYdgAzjtzU5mXUVnTMdnSzAttM
