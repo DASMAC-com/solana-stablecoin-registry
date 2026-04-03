@@ -38,8 +38,8 @@ The Solana Stablecoin Registry is built with [VitePress] and can be viewed at
    pre-commit run --config cfg/pre-commit/quick-lint.yml --all-files
    ```
 
-[localhost:5173]: http://localhost:5173
 [dasmac]: https://dasmac.com
+[localhost:5173]: http://localhost:5173
 [stables.dasmac.com]: https://stables.dasmac.com
 [vitepress]: https://vitepress.dev/
 [`npm`]: https://nodejs.org/en/download
